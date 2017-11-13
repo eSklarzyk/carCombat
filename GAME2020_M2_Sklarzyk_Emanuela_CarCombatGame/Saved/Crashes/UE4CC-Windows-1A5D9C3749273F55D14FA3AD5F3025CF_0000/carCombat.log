@@ -1,0 +1,1062 @@
+﻿Log file open, 10/13/17 14:26:55
+LogWindows: LoadLibraryWithSearchPaths failed for file aqProf.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VSPerf140.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi32e.dll. GetLastError=0
+LogInit: Display: Running engine for game: carCombat
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1088975284) SRandInit(1088975284).
+LogTaskGraph: Started task graph with 5 named threads and 38 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.471584
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3586342
+LogInit: Engine Version: 4.17.1-3586342+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Aug 15 2017 02:05:26
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.10.13-18.26.57:581][  0]LogInit: Selected Device Profile: [Windows]
+[2017.10.13-18.26.57:581][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.10.13-18.26.57:659][  0]LogInit: Computer: SOD-SJH-510-36W
+[2017.10.13-18.26.57:659][  0]LogInit: User: graphic
+[2017.10.13-18.26.57:659][  0]LogInit: CPU Page size=4096, Cores=12
+[2017.10.13-18.26.57:659][  0]LogInit: High frequency timer resolution =2.597652 MHz
+[2017.10.13-18.26.57:660][  0]LogMemory: Memory total: Physical=24.0GB (24GB approx)
+[2017.10.13-18.26.57:660][  0]LogMemory: Platform Memory Stats for Windows
+[2017.10.13-18.26.57:660][  0]LogMemory: Process Physical Memory: 281.64 MB used, 281.64 MB peak
+[2017.10.13-18.26.57:660][  0]LogMemory: Process Virtual Memory: 281.95 MB used, 281.95 MB peak
+[2017.10.13-18.26.57:660][  0]LogMemory: Physical Memory: 3578.90 MB used,  20984.63 MB free, 24563.53 MB total
+[2017.10.13-18.26.57:660][  0]LogMemory: Virtual Memory: 693.95 MB used,  20984.63 MB free, 134217728.00 MB total
+[2017.10.13-18.26.57:918][  0]LogInit: Using OS detected language (en-US).
+[2017.10.13-18.26.57:918][  0]LogInit: Using OS detected locale (en-US).
+[2017.10.13-18.26.57:922][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.10.13-18.26.58:993][  0]LogD3D11RHI: D3D11 adapters:
+[2017.10.13-18.26.59:002][  0]LogD3D11RHI:    0. 'ATI Radeon HD 5800 Series' (Feature Level 11_0)
+[2017.10.13-18.26.59:002][  0]LogD3D11RHI:       1010/0/3840 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2017.10.13-18.26.59:004][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.10.13-18.26.59:004][  0]LogD3D11RHI:       0/0/12281 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.10.13-18.26.59:004][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.10.13-18.26.59:010][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.10.13-18.26.59:010][  0]LogD3D11RHI:     GPU DeviceId: 0x6898 (for the marketing name, search the web for "GPU Device Id")
+[2017.10.13-18.26.59:010][  0]LogWindows: EnumDisplayDevices:
+[2017.10.13-18.26.59:010][  0]LogWindows:    0. 'ATI Radeon HD 5800 Series' (P:1 D:1)
+[2017.10.13-18.26.59:010][  0]LogWindows:    1. 'ATI Radeon HD 5800 Series' (P:0 D:0)
+[2017.10.13-18.26.59:011][  0]LogWindows:    2. 'ATI Radeon HD 5800 Series' (P:0 D:0)
+[2017.10.13-18.26.59:011][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2017.10.13-18.26.59:011][  0]LogD3D11RHI:     Adapter Name: ATI Radeon HD 5800 Series
+[2017.10.13-18.26.59:011][  0]LogD3D11RHI:   Driver Version: 15.201.1301.0 (internal:15.201.1301.0, unified:15.201.1301.0)
+[2017.10.13-18.26.59:011][  0]LogD3D11RHI:      Driver Date: 8-19-2015
+[2017.10.13-18.26.59:011][  0]LogRHI: Texture pool is 707 MB (70% of 1010 MB)
+[2017.10.13-18.26.59:031][  0]LogD3D11RHI: AMD Pre GCN architecture detected, some driver workarounds will be in place
+[2017.10.13-18.26.59:037][  0]LogD3D11RHI: Async texture creation enabled
+[2017.10.13-18.26.59:055][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2017.10.13-18.26.59:056][  0]LogShaderCompilers: Guid format shader working directory is -10 characters bigger than the processId version (E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Intermediate/Shaders/WorkingDirectory/13108/).
+[2017.10.13-18.26.59:056][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/graphic/AppData/Local/Temp/UnrealShaderWorkingDir/8B058AD2430F7384C7C3129C9D796E9B/'.
+[2017.10.13-18.26.59:056][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.10.13-18.27.00:408][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.10.13-18.27.00:491][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.10.13-18.27.00:574][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.10.13-18.27.00:658][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.10.13-18.27.00:741][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.10.13-18.27.00:824][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.10.13-18.27.00:908][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.10.13-18.27.00:991][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.10.13-18.27.01:065][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.10.13-18.27.01:145][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.10.13-18.27.01:225][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.10.13-18.27.01:305][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.10.13-18.27.01:385][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.10.13-18.27.01:465][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.10.13-18.27.01:545][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.10.13-18.27.01:705][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.10.13-18.27.01:705][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.10.13-18.27.01:769][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.10.13-18.27.01:907][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.10.13-18.27.01:956][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.10.13-18.27.02:036][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.10.13-18.27.02:116][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.10.13-18.27.02:196][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.10.13-18.27.02:276][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.10.13-18.27.02:276][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.10.13-18.27.03:106][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.10.13-18.27.03:253][  0]LogDerivedDataCache: Loaded boot cache 0.15s 93MB C:/Users/graphic/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.10.13-18.27.03:253][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/graphic/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.10.13-18.27.03:253][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.10.13-18.27.03:253][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.10.13-18.27.03:253][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.10.13-18.27.03:253][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.10.13-18.27.03:282][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.10.13-18.27.03:295][  0]LogDerivedDataCache: Using Local data cache path C:/Users/graphic/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.10.13-18.27.03:311][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.10.13-18.27.03:311][  0]LogSlate: Using Freetype 2.6.0
+[2017.10.13-18.27.03:312][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.10.13-18.27.03:312][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.10.13-18.27.04:382][  0]LogAssetRegistry: FAssetRegistry took 0.6712 seconds to start up
+[2017.10.13-18.27.04:632][  0]LogInit: Selected Device Profile: [Windows]
+[2017.10.13-18.27.04:955][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.10.13-18.27.05:446][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.10.13-18.27.05:514][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.10.13-18.27.05:514][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.10.13-18.27.05:514][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.10.13-18.27.05:514][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.10.13-18.27.05:514][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.10.13-18.27.06:234][  0]LogNetVersion: carCombat , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2430051111)
+[2017.10.13-18.27.07:448][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.948184 seconds
+[2017.10.13-18.27.07:457][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.10.13-18.27.07:457][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2017.10.13-18.27.07:457][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.10.13-18.27.07:565][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.10.13-18.27.12:399][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.10.13-18.27.12:462][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.10.13-18.27.13:512][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.10.13-18.27.14:629][  0]SourceControl: Source control is disabled
+[2017.10.13-18.27.14:629][  0]SourceControl: Source control is disabled
+[2017.10.13-18.27.14:717][  0]SourceControl: Source control is disabled
+[2017.10.13-18.27.14:802][  0]SourceControl: Source control is disabled
+[2017.10.13-18.27.15:840][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.10.13-18.27.16:260][  0]LogOcInput: OculusInput pre-init called
+[2017.10.13-18.27.16:682][  0]LogEngine: Initializing Engine...
+[2017.10.13-18.27.16:685][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.10.13-18.27.17:049][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.10.13-18.27.17:049][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.10.13-18.27.17:253][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.10.13-18.27.17:271][  0]LogInit: XAudio2 using 'Speakers (Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.13-18.27.17:299][  0]LogInit: FAudioDevice initialized.
+[2017.10.13-18.27.17:453][  0]LogDerivedDataCache: Saved boot cache 0.15s 93MB C:/Users/graphic/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.10.13-18.27.17:490][  0]LogInit: Texture streaming: Enabled
+[2017.10.13-18.27.17:707][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.10.13-18.27.18:070][  0]LogInit: Transaction tracking system initialized
+[2017.10.13-18.27.18:589][  0]BlueprintLog: New page: Editor Load
+[2017.10.13-18.27.20:266][  0]LocalizationService: Localization service is disabled
+[2017.10.13-18.27.21:649][  0]LogConsoleResponse: Display: 
+[2017.10.13-18.27.22:616][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.10.13-18.27.22:617][  0]LogCook: Display: Mobile HDR setting 1
+[2017.10.13-18.27.22:617][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.10.13-18.27.22:626][  0]LogFileCache: Scanning file cache for directory 'E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Content/' took 0.61s
+[2017.10.13-18.27.24:415][  0]SourceControl: Source control is disabled
+[2017.10.13-18.27.24:415][  0]Cmd: MAP LOAD FILE="E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Content/levels/arena.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.10.13-18.27.24:798][  0]LightingResults: New page: Lighting Build
+[2017.10.13-18.27.24:866][  0]MapCheck: New page: Map Check
+[2017.10.13-18.27.24:866][  0]LightingResults: New page: Lighting Build
+[2017.10.13-18.27.25:350][  0]LogAIModule: Creating AISystem for world arena
+[2017.10.13-18.27.25:363][  0]PIE: Warning: AttachTo: '/Game/levels/arena.arena:PersistentLevel.firePit_134.damageVol' is not static  (in blueprint "firePit"), cannot attach '/Game/levels/arena.arena:PersistentLevel.PainCausingVolume_GEN_VARIABLE_PainCausingVolume_CAT_72.BrushComponent0' which is static to it. Aborting.
+[2017.10.13-18.27.25:365][  0]PIE: Warning: AttachTo: '/Game/levels/arena.arena:PersistentLevel.firePit2.damageVol' is not static  (in blueprint "firePit"), cannot attach '/Game/levels/arena.arena:PersistentLevel.PainCausingVolume_GEN_VARIABLE_PainCausingVolume_CAT_1329.BrushComponent0' which is static to it. Aborting.
+[2017.10.13-18.27.25:400][  0]PIE: Warning: AttachTo: '/Game/levels/arena.arena:PersistentLevel.firePit_134.damageVol' is not static  (in blueprint "firePit"), cannot attach '/Game/levels/arena.arena:PersistentLevel.PainCausingVolume_GEN_VARIABLE_PainCausingVolume_CAT_1331.BrushComponent0' which is static to it. Aborting.
+[2017.10.13-18.27.25:401][  0]PIE: Warning: AttachTo: '/Game/levels/arena.arena:PersistentLevel.firePit2.damageVol' is not static  (in blueprint "firePit"), cannot attach '/Game/levels/arena.arena:PersistentLevel.PainCausingVolume_GEN_VARIABLE_PainCausingVolume_CAT_1333.BrushComponent0' which is static to it. Aborting.
+[2017.10.13-18.27.25:434][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.10.13-18.27.25:464][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.13-18.27.26:615][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,150.26ms to complete.
+[2017.10.13-18.27.26:615][  0]LogFileHelpers: Loading map 'arena' took 2.200
+[2017.10.13-18.27.27:570][  0]LogCollectionManager: Loaded 0 collections in 0.718241 seconds
+[2017.10.13-18.27.27:749][  0]LogFileCache: Scanning file cache for directory 'E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Saved/Collections/' took 0.01s
+[2017.10.13-18.27.27:749][  0]LogFileCache: Scanning file cache for directory 'E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Content/Developers/graphic/Collections/' took 0.01s
+[2017.10.13-18.27.27:749][  0]LogFileCache: Scanning file cache for directory 'E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Content/Collections/' took 0.01s
+[2017.10.13-18.27.27:749][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.10.13-18.27.27:766][  0]LogContentBrowser: Native class hierarchy populated in 0.0147 seconds. Added 2386 classes and 500 folders.
+[2017.10.13-18.27.27:879][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0012 seconds. Added 0 classes and 0 folders.
+[2017.10.13-18.27.28:359][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0010 seconds. Added 0 classes and 0 folders.
+[2017.10.13-18.27.28:441][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0011 seconds. Added 1 classes and 2 folders.
+[2017.10.13-18.27.28:950][  0]LogSlate: Took 0.000268 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.10.13-18.27.28:953][  0]LogSlate: Took 0.000227 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.10.13-18.27.28:969][  0]LogSlate: Took 0.006744 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.10.13-18.27.29:189][  0]LogRenderer: Reallocating scene render targets to support 1616x808 Format 10 NumSamples 1 (Frame:1).
+[2017.10.13-18.27.29:647][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0010 seconds. Added 1 classes and 2 folders.
+[2017.10.13-18.27.29:647][  0]LogLoad: (Engine Initialization) Total time: 37.50 seconds
+[2017.10.13-18.27.29:647][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.10.13-18.27.29:647][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.10.13-18.27.29:658][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.10.13-18.27.29:680][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.10.13-18.27.29:784][  1]LogAssetRegistry: Asset discovery search completed in 25.4248 seconds
+[2017.10.13-18.27.29:786][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.10.13-18.27.29:786][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000051 seconds (updated 0 objects)
+[2017.10.13-18.29.53:359][760]LogSlate: Took 0.005995 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.13-18.29.53:371][760]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/HUD" FILE="E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Content/UMG/HUD.uasset" SILENT=true
+[2017.10.13-18.29.53:805][760]LogSavePackage: Save=229.59ms
+[2017.10.13-18.29.53:805][760]LogSavePackage: Moving 'E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Saved/HUD89716C3A4A12D9694A51CDB6E41D540D.tmp' to 'E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Content/UMG/HUD.uasset'
+[2017.10.13-18.29.53:859][760]LogSavePackage: Display: Finished SavePackage E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Content/UMG/HUD.uasset
+[2017.10.13-18.30.40:666][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/Menu" FILE="E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Content/UMG/Menu.uasset" SILENT=true
+[2017.10.13-18.30.41:700][183]LogSavePackage: Save=247.07ms
+[2017.10.13-18.30.41:700][183]LogSavePackage: Moving 'E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Saved/Menu0FCA0DE842280C9BB24B00B87DC186FE.tmp' to 'E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Content/UMG/Menu.uasset'
+[2017.10.13-18.30.41:753][183]LogSavePackage: Display: Finished SavePackage E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Content/UMG/Menu.uasset
+[2017.10.13-18.30.55:556][369]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/PauseMenu" FILE="E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Content/UMG/PauseMenu.uasset" SILENT=true
+[2017.10.13-18.30.56:770][369]LogSavePackage: Save=250.71ms
+[2017.10.13-18.30.56:770][369]LogSavePackage: Moving 'E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Saved/PauseMenu5FC6E6CC4F6EDB9DD4E9EC9F01CFDED9.tmp' to 'E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Content/UMG/PauseMenu.uasset'
+[2017.10.13-18.30.56:820][369]LogSavePackage: Display: Finished SavePackage E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Content/UMG/PauseMenu.uasset
+[2017.10.13-18.31.12:821][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/Main" FILE="E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Content/UMG/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.13-18.31.13:223][472]LogSavePackage: Save=334.58ms
+[2017.10.13-18.31.13:223][472]LogSavePackage: Moving 'E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Saved/Main77C451F446FD2CF2821D3798D279B990.tmp' to 'E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Content/UMG/Main.umap'
+[2017.10.13-18.31.13:264][472]LogSavePackage: Display: Finished SavePackage E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Content/UMG/Main.umap
+[2017.10.13-18.31.13:267][472]LogFileHelpers: Saving map 'Main' took 1.374
+[2017.10.13-18.31.54:007][592]LogSlate: Took 0.003692 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.10.13-18.31.54:215][592]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0015 seconds. Added 113 classes and 0 folders.
+[2017.10.13-18.31.55:566][592]LogSlate: Took 0.007401 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.10.13-18.31.55:798][593]LogSlate: Took 0.005908 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.10.13-18.32.11:532][407]LogSlate: Took 0.005724 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2017.10.13-18.32.15:806][631]BlueprintLog: New page: Compile player
+[2017.10.13-18.32.17:550][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/myPlayer/player" FILE="E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Content/blueprints/myPlayer/player.uasset" SILENT=true
+[2017.10.13-18.32.18:683][667]LogSavePackage: Save=949.20ms
+[2017.10.13-18.32.18:690][667]LogSavePackage: Moving 'E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Saved/playerB9BE97824D0BF1332830F38A80B70D15.tmp' to 'E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Content/blueprints/myPlayer/player.uasset'
+[2017.10.13-18.32.18:744][667]LogSavePackage: Display: Finished SavePackage E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Content/blueprints/myPlayer/player.uasset
+[2017.10.13-18.32.52:126][660]BlueprintLog: New page: Compile player
+[2017.10.13-18.32.52:674][660]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/myPlayer/player" FILE="E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Content/blueprints/myPlayer/player.uasset" SILENT=true
+[2017.10.13-18.32.53:778][660]LogSavePackage: Save=964.68ms
+[2017.10.13-18.32.53:778][660]LogSavePackage: Moving 'E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Saved/playerCE7733EA4462241F5FD584806DDC6EEB.tmp' to 'E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Content/blueprints/myPlayer/player.uasset'
+[2017.10.13-18.32.53:828][660]LogSavePackage: Display: Finished SavePackage E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Content/blueprints/myPlayer/player.uasset
+[2017.10.13-18.34.11:426][253]BlueprintLog: New page: Compile player
+[2017.10.13-18.34.19:000][611]BlueprintLog: New page: Compile player
+[2017.10.13-18.34.46:224][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/myPlayer/player" FILE="E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Content/blueprints/myPlayer/player.uasset" SILENT=true
+[2017.10.13-18.34.48:148][981]LogSavePackage: Save=1772.46ms
+[2017.10.13-18.34.48:148][981]LogSavePackage: Moving 'E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Saved/playerE7F677FD4218B5EA4CB8A3A71A63E433.tmp' to 'E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Content/blueprints/myPlayer/player.uasset'
+[2017.10.13-18.34.48:197][981]LogSavePackage: Display: Finished SavePackage E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Content/blueprints/myPlayer/player.uasset
+[2017.10.13-18.34.49:894][ 66]BlueprintLog: New page: Compile player
+[2017.10.13-18.34.50:418][ 66]BlueprintLog: New page: Compile player
+[2017.10.13-18.35.06:959][918]BlueprintLog: New page: Compile player
+[2017.10.13-18.35.45:417][938]BlueprintLog: New page: Compile player
+[2017.10.13-18.36.00:472][675]BlueprintLog: New page: Compile player
+[2017.10.13-18.36.13:331][324]BlueprintLog: New page: Compile player
+[2017.10.13-18.36.16:961][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/myPlayer/player" FILE="E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Content/blueprints/myPlayer/player.uasset" SILENT=true
+[2017.10.13-18.36.18:849][440]LogSavePackage: Save=1824.46ms
+[2017.10.13-18.36.18:849][440]LogSavePackage: Moving 'E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Saved/player2FF34EC0461C441425714193543C23A2.tmp' to 'E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Content/blueprints/myPlayer/player.uasset'
+[2017.10.13-18.36.18:898][440]LogSavePackage: Display: Finished SavePackage E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Content/blueprints/myPlayer/player.uasset
+[2017.10.13-18.41.23:112][117]LogSlate: Took 0.005627 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.13-18.41.32:403][636]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/levels/arena" FILE="E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Saved/Autosaves/Game/levels/arena_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.10.13-18.41.42:257][636]LogSavePackage: Save=9756.83ms
+[2017.10.13-18.41.42:257][636]LogSavePackage: Moving 'E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Saved/arena_Auto1ECDEFEA8435EFBC7F8793DA448A86C4C.tmp' to 'E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Saved/Autosaves/Game/levels/arena_Auto1.umap'
+[2017.10.13-18.41.42:284][636]LogSavePackage: Display: Finished SavePackage E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Saved/Autosaves/Game/levels/arena_Auto1.umap
+[2017.10.13-18.41.42:313][636]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/levels/arena' took 9.955
+[2017.10.13-18.41.42:313][636]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 9.955
+[2017.10.13-18.41.42:319][636]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/blueprints/myPlayer/player] ([1] browsable assets)...
+[2017.10.13-18.41.42:351][636]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/blueprints/myPlayer/player.player]
+[2017.10.13-18.41.42:351][636]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprints/myPlayer/player]
+[2017.10.13-18.41.44:481][636]LogSavePackage: Save=2057.19ms
+[2017.10.13-18.41.44:481][636]LogSavePackage: Moving 'E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Saved/player_Auto1D3B7399B4F0751666BC84597911F4163.tmp' to 'E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Saved/Autosaves/Game/blueprints/myPlayer/player_Auto1.uasset'
+[2017.10.13-18.41.44:495][636]LogSavePackage: Display: Finished SavePackage E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Saved/Autosaves/Game/blueprints/myPlayer/player_Auto1.uasset
+[2017.10.13-18.41.44:495][636]LogFileHelpers: Auto-saving content packages took 2.180
+[2017.10.13-18.43.36:019][148]BlueprintLog: New page: Compile player
+[2017.10.13-18.44.26:485][ 86]LogEditorTransaction: Undo Move Node
+[2017.10.13-18.44.28:375][182]LogEditorTransaction: Undo Paste clipboard contents
+[2017.10.13-18.47.05:574][833]BlueprintLog: New page: Compile player
+[2017.10.13-18.48.56:096][390]BlueprintLog: New page: Compile player
+[2017.10.13-18.48.57:155][415]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/myPlayer/player" FILE="E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Content/blueprints/myPlayer/player.uasset" SILENT=true
+[2017.10.13-18.48.59:888][415]LogSavePackage: Save=2559.20ms
+[2017.10.13-18.48.59:888][415]LogSavePackage: Moving 'E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Saved/playerF35CC7FF45867478DB9CE9AD83D0FE5F.tmp' to 'E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Content/blueprints/myPlayer/player.uasset'
+[2017.10.13-18.48.59:939][415]LogSavePackage: Display: Finished SavePackage E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Content/blueprints/myPlayer/player.uasset
+[2017.10.13-18.50.32:765][227]LogEditorTransaction: Undo Add Widget
+[2017.10.13-18.50.39:434][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/HUD" FILE="E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Content/UMG/HUD.uasset" SILENT=true
+[2017.10.13-18.50.39:839][586]LogSavePackage: Save=252.20ms
+[2017.10.13-18.50.39:840][586]LogSavePackage: Moving 'E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Saved/HUD8C483E29499B8B1AA64A2DA760FD68B6.tmp' to 'E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Content/UMG/HUD.uasset'
+[2017.10.13-18.50.39:894][586]LogSavePackage: Display: Finished SavePackage E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Content/UMG/HUD.uasset
+[2017.10.13-18.50.40:924][642]BlueprintLog: New page: Compile HUD
+[2017.10.13-18.52.09:662][539]BlueprintLog: New page: Compile HUD
+[2017.10.13-18.52.20:868][ 68]LogSlate: Took 0.043043 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2017.10.13-18.52.44:986][988]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.44:991][988]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_2' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.44:992][988]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_4' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.44:994][988]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_6' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.45:025][989]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_8' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.45:028][989]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_10' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.45:051][990]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_12' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.45:054][990]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_14' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.45:078][991]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_16' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.45:079][991]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_18' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.45:082][991]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_20' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.45:105][992]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_22' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.45:108][992]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_24' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.45:132][993]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_26' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.45:135][993]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_28' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.45:158][994]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_30' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.45:159][994]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_32' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.45:162][994]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_34' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.45:185][995]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_36' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.45:188][995]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_38' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.45:212][996]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_40' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.45:215][996]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_42' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.45:238][997]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_44' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.45:241][997]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_46' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.45:267][998]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_48' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.45:292][999]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_50' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.45:317][  0]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_52' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.45:341][  1]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_54' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.45:365][  2]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_56' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.45:390][  3]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_58' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.45:414][  4]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_60' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.45:439][  5]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_62' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.45:464][  6]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_64' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.45:488][  7]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_66' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.46:856][ 52]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.46:857][ 52]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_70' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.46:860][ 52]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_72' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.46:888][ 53]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_74' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.46:891][ 53]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_76' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.46:914][ 54]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_78' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.46:917][ 54]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_80' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.46:940][ 55]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_82' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.46:943][ 55]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_84' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.46:967][ 56]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_86' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.46:970][ 56]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_88' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.46:994][ 57]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_90' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.46:997][ 57]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_92' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.47:021][ 58]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_94' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.47:024][ 58]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_96' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.47:047][ 59]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_98' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.47:050][ 59]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_100' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.47:075][ 60]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_102' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.47:099][ 61]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_104' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.47:123][ 62]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_106' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.47:148][ 63]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_108' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.47:172][ 64]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_110' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.47:195][ 65]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_112' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.47:198][ 65]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_114' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.47:221][ 66]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_116' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.47:224][ 66]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_118' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.47:247][ 67]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_120' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.47:248][ 67]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_122' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.47:251][ 67]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_124' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.47:274][ 68]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_126' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.47:277][ 68]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_128' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.47:300][ 69]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_130' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.47:303][ 69]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_132' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.47:328][ 70]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_134' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.47:331][ 70]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_136' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.47:354][ 71]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_138' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.47:357][ 71]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_140' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.47:381][ 72]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_142' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.47:384][ 72]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_144' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.47:408][ 73]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_146' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.47:411][ 73]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_148' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.47:435][ 74]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_150' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.47:438][ 74]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_152' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.47:461][ 75]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_154' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.47:464][ 75]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_156' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.50:634][191]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.50:636][191]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_160' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.50:639][191]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_162' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.50:668][192]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_164' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.50:671][192]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_166' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.50:694][193]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_168' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.50:695][193]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_170' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.50:698][193]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_172' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.50:722][194]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_174' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.50:725][194]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_176' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.50:748][195]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_178' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.50:751][195]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_180' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.50:775][196]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_182' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.50:779][196]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_184' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.50:804][197]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_186' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.50:829][198]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_188' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.50:852][199]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_190' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.50:855][199]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_192' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.50:878][200]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_194' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.50:880][200]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_196' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.50:882][200]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_198' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.50:907][201]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_200' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.50:932][202]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_202' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.50:956][203]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_204' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.50:980][204]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_206' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.51:003][205]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_208' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.51:006][205]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_210' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.51:030][206]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_212' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.51:031][206]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_214' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.51:034][206]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_216' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.51:057][207]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_218' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.51:060][207]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_220' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.51:084][208]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_222' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.51:087][208]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_224' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.51:110][209]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_226' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.51:111][209]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_228' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.51:114][209]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_230' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.51:138][210]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_232' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.51:141][210]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_234' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.51:164][211]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_236' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.51:167][211]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_238' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.51:190][212]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_240' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.51:192][212]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_242' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.51:194][212]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_244' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.51:218][213]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_246' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.51:221][213]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_248' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.51:244][214]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_250' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.51:247][214]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_252' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.51:272][215]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_254' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.51:296][216]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_256' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.51:320][217]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_258' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.51:345][218]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_260' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.51:369][219]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_262' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.51:394][220]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_264' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.51:418][221]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_266' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.51:442][222]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_268' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.51:467][223]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_270' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.51:491][224]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_272' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.51:516][225]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_274' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.51:540][226]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_276' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.51:563][227]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_278' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.51:588][228]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_280' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.51:612][229]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_282' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.51:637][230]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_284' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.51:662][231]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_286' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.51:686][232]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_288' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.51:711][233]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_290' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.51:735][234]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_292' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.51:759][235]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_294' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.51:784][236]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_296' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.51:808][237]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_298' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.51:832][238]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_300' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.51:857][239]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_302' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.51:881][240]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_304' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.51:905][241]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_306' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.51:930][242]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_308' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.51:955][243]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_310' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.51:979][244]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_312' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.52:003][245]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_314' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.52:028][246]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_316' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.52:053][247]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_318' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.52:077][248]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_320' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.52:102][249]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_322' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.52:125][250]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_324' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.52:150][251]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_326' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.52:174][252]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_328' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.52:199][253]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_330' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.52:223][254]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_332' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.52:248][255]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_334' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.52:272][256]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_336' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.52:297][257]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_338' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.52:320][258]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_340' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.52:345][259]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_342' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.52:369][260]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_344' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.52:394][261]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_346' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.52:418][262]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_348' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.52:442][263]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_350' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.52:466][264]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_352' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.52:491][265]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_354' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.52:515][266]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_356' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.52:540][267]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_358' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.52:564][268]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_360' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.52:589][269]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_362' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.52:614][270]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_364' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.52:638][271]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_366' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.52:662][272]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_368' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.52:687][273]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_370' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.52:711][274]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_372' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.52:735][275]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_374' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.52:760][276]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_376' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.52:783][277]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_378' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.52:808][278]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_380' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.52:833][279]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_382' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.52:857][280]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_384' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.52:881][281]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_386' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.52:906][282]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_388' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.52:930][283]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_390' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.52:954][284]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_392' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.52:979][285]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_394' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.53:003][286]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_396' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.53:027][287]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_398' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.53:052][288]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_400' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.53:076][289]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_402' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.53:101][290]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_404' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.53:125][291]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_406' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.53:150][292]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_408' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.53:174][293]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_410' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.53:198][294]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_412' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.53:222][295]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_414' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.53:247][296]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_416' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.53:271][297]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_418' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.53:295][298]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_420' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.53:320][299]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_422' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.53:344][300]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_424' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.53:368][301]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_426' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.53:392][302]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_428' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.53:416][303]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_430' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.52.53:441][304]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_432' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.11:704][946]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.11:705][946]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_436' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.11:708][946]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_438' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.11:737][947]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_440' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.11:740][947]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_442' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.11:762][948]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_444' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.11:766][948]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_446' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.11:790][949]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_448' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.11:791][949]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_450' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.11:794][949]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_452' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.11:817][950]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_454' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.11:820][950]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_456' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.11:843][951]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_458' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.11:846][951]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_460' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.11:869][952]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_462' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.11:871][952]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_464' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.11:874][952]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_466' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.11:897][953]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_468' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.11:900][953]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_470' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.11:924][954]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_472' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.11:927][954]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_474' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.11:951][955]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_476' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.11:954][955]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_478' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.11:980][956]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_480' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.12:004][957]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_482' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.12:029][958]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_484' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.12:054][959]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_486' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.12:078][960]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_488' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.12:103][961]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_490' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.12:127][962]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_492' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.12:152][963]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_494' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.12:174][964]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_496' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.12:177][964]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_498' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.12:202][965]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_500' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.12:205][965]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_502' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.12:229][966]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_504' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.12:232][966]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_506' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.12:255][967]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_508' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.12:258][967]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_510' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.12:282][968]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_512' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.12:285][968]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_514' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.12:308][969]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_516' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.12:311][969]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_518' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.12:335][970]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_520' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.12:338][970]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_522' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.12:361][971]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_524' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.12:364][971]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_526' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.12:387][972]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_528' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.12:390][972]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_530' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.12:414][973]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_532' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.12:415][973]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_534' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.12:418][973]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_536' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.12:441][974]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_538' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.12:444][974]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_540' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.12:468][975]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_542' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.12:471][975]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_544' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.12:494][976]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_546' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.12:495][976]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_548' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.12:498][976]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_550' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.12:521][977]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_552' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.12:524][977]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_554' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.12:548][978]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_556' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.12:551][978]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_558' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.12:575][979]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_560' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.12:600][980]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_562' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.12:623][981]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_564' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.12:625][981]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_566' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.12:628][981]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_568' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.12:651][982]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_570' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.12:654][982]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_572' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.12:677][983]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_574' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.12:680][983]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_576' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.12:705][984]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_578' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.12:708][984]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_580' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.12:733][985]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_582' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.12:756][986]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_584' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.12:759][986]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_586' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.12:784][987]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_588' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.12:808][988]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_590' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.12:832][989]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_592' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.12:857][990]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_594' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.12:881][991]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_596' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.12:905][992]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_598' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.12:929][993]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_600' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.12:953][994]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_602' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.12:978][995]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_604' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.13:002][996]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_606' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.13:027][997]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_608' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.13:051][998]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_610' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.13:076][999]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_612' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.13:101][  0]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_614' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.13:126][  1]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_616' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.13:150][  2]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_618' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.13:175][  3]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_620' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.13:199][  4]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_622' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.13:223][  5]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_624' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.13:248][  6]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_626' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.13:272][  7]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_628' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.13:296][  8]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_630' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.13:321][  9]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_632' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.13:345][ 10]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_634' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.13:369][ 11]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_636' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.13:393][ 12]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_638' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.13:418][ 13]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_640' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.13:442][ 14]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_642' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.13:466][ 15]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_644' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.13:491][ 16]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_646' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.13:515][ 17]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_648' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.13:540][ 18]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_650' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.13:563][ 19]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_652' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.13:587][ 20]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_654' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.13:612][ 21]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_656' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.13:635][ 22]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_658' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.13:659][ 23]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_660' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.13-18.53.47:222][289]BlueprintLog: New page: Compile HUD
+[2017.10.13-18.55.27:626][ 92]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/HUD" FILE="E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Content/UMG/HUD.uasset" SILENT=true
+[2017.10.13-18.55.28:191][ 92]LogSavePackage: Save=434.69ms
+[2017.10.13-18.55.28:191][ 92]LogSavePackage: Moving 'E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Saved/HUD56343096429B92FC08BAECA9ADFA3AC0.tmp' to 'E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Content/UMG/HUD.uasset'
+[2017.10.13-18.55.28:256][ 92]LogSavePackage: Display: Finished SavePackage E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Content/UMG/HUD.uasset
+[2017.10.13-18.55.42:384][630]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/HUD" FILE="E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Content/UMG/HUD.uasset" SILENT=true
+[2017.10.13-18.55.42:932][630]LogSavePackage: Save=392.45ms
+[2017.10.13-18.55.42:932][630]LogSavePackage: Moving 'E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Saved/HUD80D906F94E85D88BCF3C40864F883C5C.tmp' to 'E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Content/UMG/HUD.uasset'
+[2017.10.13-18.55.42:986][630]LogSavePackage: Display: Finished SavePackage E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Content/UMG/HUD.uasset
+[2017.10.13-18.56.24:653][294]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/levels/arena" FILE="E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Saved/Autosaves/Game/levels/arena_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.10.13-18.56.36:031][294]LogSavePackage: Save=11268.58ms
+[2017.10.13-18.56.36:031][294]LogSavePackage: Moving 'E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Saved/arena_Auto2CF3FF883455CE4ED41AFC9BB624EB302.tmp' to 'E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Saved/Autosaves/Game/levels/arena_Auto2.umap'
+[2017.10.13-18.56.36:058][294]LogSavePackage: Display: Finished SavePackage E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Saved/Autosaves/Game/levels/arena_Auto2.umap
+[2017.10.13-18.56.36:085][294]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/levels/arena' took 11.472
+[2017.10.13-18.56.36:085][294]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 11.472
+[2017.10.13-18.56.36:116][294]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UMG/HUD] ([1] browsable assets)...
+[2017.10.13-18.56.36:116][294]OBJ SavePackage: Finished generating thumbnails for package [/Game/UMG/HUD]
+[2017.10.13-18.56.36:116][294]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/HUD" FILE="E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Saved/Autosaves/Game/UMG/HUD_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2017.10.13-18.56.36:559][294]LogSavePackage: Save=399.44ms
+[2017.10.13-18.56.36:559][294]LogSavePackage: Moving 'E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Saved/HUD_Auto268DCE67649F1355B2CC411B03C429921.tmp' to 'E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Saved/Autosaves/Game/UMG/HUD_Auto2.uasset'
+[2017.10.13-18.56.36:571][294]LogSavePackage: Display: Finished SavePackage E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Saved/Autosaves/Game/UMG/HUD_Auto2.uasset
+[2017.10.13-18.56.36:572][294]LogFileHelpers: Auto-saving content packages took 0.485
+[2017.10.13-18.56.49:961][849]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/HUD" FILE="E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Content/UMG/HUD.uasset" SILENT=true
+[2017.10.13-18.56.51:614][849]LogSavePackage: Save=438.97ms
+[2017.10.13-18.56.51:615][849]LogSavePackage: Moving 'E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Saved/HUD6BCCE14A498C2F7E0BAAA088190A8253.tmp' to 'E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Content/UMG/HUD.uasset'
+[2017.10.13-18.56.51:681][849]LogSavePackage: Display: Finished SavePackage E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Content/UMG/HUD.uasset
+[2017.10.13-18.56.52:938][899]BlueprintLog: New page: Compile HUD
+[2017.10.13-18.57.39:680][722]LogEditorTransaction: Undo Rename Widget
+[2017.10.13-18.58.02:297][574]BlueprintLog: New page: Compile HUD
+[2017.10.13-18.59.28:881][216]LogEditorTransaction: Undo Rename Widget
+[2017.10.13-19.02.44:957][ 70]BlueprintLog: New page: Compile HUD
+[2017.10.13-19.03.36:547][152]BlueprintLog: New page: Compile HUD
+[2017.10.13-19.03.46:334][511]BlueprintLog: New page: Compile HUD
+[2017.10.13-19.05.02:420][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/HUD" FILE="E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Content/UMG/HUD.uasset" SILENT=true
+[2017.10.13-19.05.03:113][558]LogSavePackage: Save=534.71ms
+[2017.10.13-19.05.03:113][558]LogSavePackage: Moving 'E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Saved/HUD94EA005945ABDCD40775B880274028D9.tmp' to 'E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Content/UMG/HUD.uasset'
+[2017.10.13-19.05.03:168][558]LogSavePackage: Display: Finished SavePackage E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Content/UMG/HUD.uasset
+[2017.10.13-19.08.09:420][598]BlueprintLog: New page: Compile HUD
+[2017.10.13-19.08.13:864][818]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/HUD" FILE="E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Content/UMG/HUD.uasset" SILENT=true
+[2017.10.13-19.08.14:773][818]LogSavePackage: Save=775.42ms
+[2017.10.13-19.08.14:773][818]LogSavePackage: Moving 'E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Saved/HUDD92F0B264AA09C71C4577C87F7FDA56B.tmp' to 'E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Content/UMG/HUD.uasset'
+[2017.10.13-19.08.14:837][818]LogSavePackage: Display: Finished SavePackage E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Content/UMG/HUD.uasset
+[2017.10.13-19.09.01:127][673]BlueprintLog: New page: Compile HUD
+[2017.10.13-19.09.46:749][571]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/levels/arena" FILE="E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Saved/Autosaves/Game/levels/arena_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.10.13-19.09.58:440][571]LogSavePackage: Save=11283.46ms
+[2017.10.13-19.09.58:440][571]LogSavePackage: Moving 'E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Saved/arena_Auto3B1A8F8D0495C343DEBB101B75FC56709.tmp' to 'E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Saved/Autosaves/Game/levels/arena_Auto3.umap'
+[2017.10.13-19.09.58:450][571]LogSavePackage: Display: Finished SavePackage E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Saved/Autosaves/Game/levels/arena_Auto3.umap
+[2017.10.13-19.09.58:477][571]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/levels/arena' took 11.770
+[2017.10.13-19.09.58:477][571]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 11.770
+[2017.10.13-19.09.58:480][571]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UMG/HUD] ([1] browsable assets)...
+[2017.10.13-19.09.58:480][571]OBJ SavePackage: Finished generating thumbnails for package [/Game/UMG/HUD]
+[2017.10.13-19.09.58:480][571]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/HUD" FILE="E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Saved/Autosaves/Game/UMG/HUD_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2017.10.13-19.10.00:017][571]LogSavePackage: Save=1490.99ms
+[2017.10.13-19.10.00:017][571]LogSavePackage: Moving 'E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Saved/HUD_Auto30D095D334048D460D2F5608D5D6F6973.tmp' to 'E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Saved/Autosaves/Game/UMG/HUD_Auto3.uasset'
+[2017.10.13-19.10.00:029][571]LogSavePackage: Display: Finished SavePackage E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Saved/Autosaves/Game/UMG/HUD_Auto3.uasset
+[2017.10.13-19.10.00:029][571]LogFileHelpers: Auto-saving content packages took 1.551
+[2017.10.13-19.10.10:585][995]BlueprintLog: New page: Compile HUD
+[2017.10.13-19.10.14:046][ 83]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/HUD" FILE="E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Content/UMG/HUD.uasset" SILENT=true
+[2017.10.13-19.10.15:603][ 83]LogSavePackage: Save=953.07ms
+[2017.10.13-19.10.15:604][ 83]LogSavePackage: Moving 'E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Saved/HUD1806CA424ECBDE653CF7D98B365DD450.tmp' to 'E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Content/UMG/HUD.uasset'
+[2017.10.13-19.10.15:661][ 83]LogSavePackage: Display: Finished SavePackage E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Content/UMG/HUD.uasset
+[2017.10.13-19.15.56:234][376]BlueprintLog: New page: Compile HUD
+[2017.10.13-19.16.01:784][648]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.13-19.16.02:630][648]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/arena.arena:PersistentLevel' has LevelScriptBlueprint '/Game/levels/arena.arena:PersistentLevel.arena' with GeneratedClass '/Game/levels/arena.arena_C' with ClassGeneratedBy '/Game/levels/arena.arena:PersistentLevel.arena'
+[2017.10.13-19.16.02:630][648]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.13-19.16.02:633][648]PIE: New page: PIE session: arena (Oct 13, 2017, 11:16:02 AM)
+[2017.10.13-19.16.02:633][648]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_arena
+[2017.10.13-19.16.02:648][648]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014339s)
+[2017.10.13-19.16.02:649][648]LogAIModule: Creating AISystem for world arena
+[2017.10.13-19.16.02:649][648]LogPlayLevel: PIE: World Init took: (0.001150s)
+[2017.10.13-19.16.02:649][648]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/arena.arena to /Game/levels/UEDPIE_0_arena.arena (0.015875s)
+[2017.10.13-19.16.02:703][648]LogInit: XAudio2 using 'Speakers (Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.13-19.16.02:713][648]LogInit: FAudioDevice initialized.
+[2017.10.13-19.16.02:781][648]LogLoad: Game class is 'gameMode_C'
+[2017.10.13-19.16.02:785][648]PIE: Warning: AttachTo: '/Game/levels/UEDPIE_0_arena.arena:PersistentLevel.firePit_134.damageVol' is not static  (in blueprint "firePit"), cannot attach '/Game/levels/UEDPIE_0_arena.arena:PersistentLevel.PainCausingVolume_GEN_VARIABLE_PainCausingVolume_CAT_72.BrushComponent0' which is static to it. Aborting.
+[2017.10.13-19.16.02:785][648]PIE: Warning: AttachTo: '/Game/levels/UEDPIE_0_arena.arena:PersistentLevel.firePit2.damageVol' is not static  (in blueprint "firePit"), cannot attach '/Game/levels/UEDPIE_0_arena.arena:PersistentLevel.PainCausingVolume_GEN_VARIABLE_PainCausingVolume_CAT_1329.BrushComponent0' which is static to it. Aborting.
+[2017.10.13-19.16.02:792][648]LogWorld: Bringing World /Game/levels/UEDPIE_0_arena.arena up for play (max tick rate 0) at 2017.10.13-15.16.02
+[2017.10.13-19.16.02:798][648]LogWorld: Bringing up level for play took: 0.015839
+[2017.10.13-19.16.02:879][648]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0011 seconds. Added 11 classes and 0 folders.
+[2017.10.13-19.16.02:879][648]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.10.13-19.16.02:879][648]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.10.13-19.16.02:879][648]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.10.13-19.16.02:885][648]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.10.13-19.16.02:885][648]PIE: Play in editor start time for /Game/levels/UEDPIE_0_arena -0.145
+[2017.10.13-19.16.02:886][648]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/arena.arena:PersistentLevel' has LevelScriptBlueprint '/Game/levels/arena.arena:PersistentLevel.arena' with GeneratedClass '/Game/levels/arena.arena_C' with ClassGeneratedBy '/Game/levels/arena.arena:PersistentLevel.arena'
+[2017.10.13-19.16.12:571][276]LogScript: Warning: Attempted to access player_C_0 via property My Character, but player_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HUD_C_44
+	Function /Game/UMG/HUD.HUD_C:GetText_0:003D
+[2017.10.13-19.16.12:571][276]LogScript: Warning: Attempted to access player_C_0 via property My Character, but player_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HUD_C_45
+	Function /Game/UMG/HUD.HUD_C:GetText_0:003D
+[2017.10.13-19.16.12:588][277]LogScript: Warning: Attempted to access player_C_0 via property My Character, but player_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HUD_C_44
+	Function /Game/UMG/HUD.HUD_C:GetText_0:003D
+[2017.10.13-19.16.12:588][277]LogScript: Warning: Attempted to access player_C_0 via property My Character, but player_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HUD_C_45
+	Function /Game/UMG/HUD.HUD_C:GetText_0:003D
+[2017.10.13-19.16.12:603][278]LogScript: Warning: Attempted to access player_C_0 via property My Character, but player_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HUD_C_44
+	Function /Game/UMG/HUD.HUD_C:GetText_0:003D
+[2017.10.13-19.16.12:603][278]LogScript: Warning: Attempted to access player_C_0 via property My Character, but player_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HUD_C_45
+	Function /Game/UMG/HUD.HUD_C:GetText_0:003D
+[2017.10.13-19.16.12:617][279]LogScript: Warning: Attempted to access player_C_0 via property My Character, but player_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HUD_C_44
+	Function /Game/UMG/HUD.HUD_C:GetText_0:003D
+[2017.10.13-19.16.12:617][279]LogScript: Warning: Attempted to access player_C_0 via property My Character, but player_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HUD_C_45
+	Function /Game/UMG/HUD.HUD_C:GetText_0:003D
+[2017.10.13-19.16.12:631][280]LogScript: Warning: Attempted to access player_C_0 via property My Character, but player_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HUD_C_44
+	Function /Game/UMG/HUD.HUD_C:GetText_0:003D
+[2017.10.13-19.16.12:631][280]LogScript: Warning: Attempted to access player_C_0 via property My Character, but player_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HUD_C_45
+	Function /Game/UMG/HUD.HUD_C:GetText_0:003D
+[2017.10.13-19.16.12:646][281]LogScript: Warning: Attempted to access player_C_0 via property My Character, but player_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HUD_C_44
+	Function /Game/UMG/HUD.HUD_C:GetText_0:003D
+[2017.10.13-19.16.12:646][281]LogScript: Warning: Attempted to access player_C_0 via property My Character, but player_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HUD_C_45
+	Function /Game/UMG/HUD.HUD_C:GetText_0:003D
+[2017.10.13-19.16.12:660][282]LogScript: Warning: Attempted to access player_C_0 via property My Character, but player_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HUD_C_44
+	Function /Game/UMG/HUD.HUD_C:GetText_0:003D
+[2017.10.13-19.16.12:660][282]LogScript: Warning: Attempted to access player_C_0 via property My Character, but player_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HUD_C_45
+	Function /Game/UMG/HUD.HUD_C:GetText_0:003D
+[2017.10.13-19.16.12:674][283]LogScript: Warning: Attempted to access player_C_0 via property My Character, but player_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HUD_C_44
+	Function /Game/UMG/HUD.HUD_C:GetText_0:003D
+[2017.10.13-19.16.12:674][283]LogScript: Warning: Attempted to access player_C_0 via property My Character, but player_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HUD_C_45
+	Function /Game/UMG/HUD.HUD_C:GetText_0:003D
+[2017.10.13-19.16.12:688][284]LogScript: Warning: Attempted to access player_C_0 via property My Character, but player_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HUD_C_44
+	Function /Game/UMG/HUD.HUD_C:GetText_0:003D
+[2017.10.13-19.16.12:688][284]LogScript: Warning: Attempted to access player_C_0 via property My Character, but player_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HUD_C_45
+	Function /Game/UMG/HUD.HUD_C:GetText_0:003D
+[2017.10.13-19.16.12:703][285]LogScript: Warning: Attempted to access player_C_0 via property My Character, but player_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HUD_C_44
+	Function /Game/UMG/HUD.HUD_C:GetText_0:003D
+[2017.10.13-19.16.12:703][285]LogScript: Warning: Attempted to access player_C_0 via property My Character, but player_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HUD_C_45
+	Function /Game/UMG/HUD.HUD_C:GetText_0:003D
+[2017.10.13-19.16.12:717][286]LogScript: Warning: Attempted to access player_C_0 via property My Character, but player_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HUD_C_44
+	Function /Game/UMG/HUD.HUD_C:GetText_0:003D
+[2017.10.13-19.16.12:717][286]LogScript: Warning: Attempted to access player_C_0 via property My Character, but player_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HUD_C_45
+	Function /Game/UMG/HUD.HUD_C:GetText_0:003D
+[2017.10.13-19.16.12:731][287]LogScript: Warning: Attempted to access player_C_0 via property My Character, but player_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HUD_C_44
+	Function /Game/UMG/HUD.HUD_C:GetText_0:003D
+[2017.10.13-19.16.12:732][287]LogScript: Warning: Attempted to access player_C_0 via property My Character, but player_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HUD_C_45
+	Function /Game/UMG/HUD.HUD_C:GetText_0:003D
+[2017.10.13-19.16.12:746][288]LogScript: Warning: Attempted to access player_C_0 via property My Character, but player_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HUD_C_44
+	Function /Game/UMG/HUD.HUD_C:GetText_0:003D
+[2017.10.13-19.16.12:746][288]LogScript: Warning: Attempted to access player_C_0 via property My Character, but player_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HUD_C_45
+	Function /Game/UMG/HUD.HUD_C:GetText_0:003D
+[2017.10.13-19.16.12:760][289]LogScript: Warning: Attempted to access player_C_0 via property My Character, but player_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HUD_C_44
+	Function /Game/UMG/HUD.HUD_C:GetText_0:003D
+[2017.10.13-19.16.12:760][289]LogScript: Warning: Attempted to access player_C_0 via property My Character, but player_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HUD_C_45
+	Function /Game/UMG/HUD.HUD_C:GetText_0:003D
+[2017.10.13-19.16.12:774][290]LogScript: Warning: Attempted to access player_C_0 via property My Character, but player_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HUD_C_44
+	Function /Game/UMG/HUD.HUD_C:GetText_0:003D
+[2017.10.13-19.16.12:775][290]LogScript: Warning: Attempted to access player_C_0 via property My Character, but player_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HUD_C_45
+	Function /Game/UMG/HUD.HUD_C:GetText_0:003D
+[2017.10.13-19.16.12:789][291]LogScript: Warning: Attempted to access player_C_0 via property My Character, but player_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HUD_C_44
+	Function /Game/UMG/HUD.HUD_C:GetText_0:003D
+[2017.10.13-19.16.12:789][291]LogScript: Warning: Attempted to access player_C_0 via property My Character, but player_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HUD_C_45
+	Function /Game/UMG/HUD.HUD_C:GetText_0:003D
+[2017.10.13-19.16.12:803][292]LogScript: Warning: Attempted to access player_C_0 via property My Character, but player_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HUD_C_44
+	Function /Game/UMG/HUD.HUD_C:GetText_0:003D
+[2017.10.13-19.16.12:803][292]LogScript: Warning: Attempted to access player_C_0 via property My Character, but player_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HUD_C_45
+	Function /Game/UMG/HUD.HUD_C:GetText_0:003D
+[2017.10.13-19.16.14:845][437]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/arena.arena:PersistentLevel' has LevelScriptBlueprint '/Game/levels/arena.arena:PersistentLevel.arena' with GeneratedClass '/Game/levels/arena.arena_C' with ClassGeneratedBy '/Game/levels/arena.arena:PersistentLevel.arena'
+[2017.10.13-19.16.14:884][437]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/arena.arena:PersistentLevel' has LevelScriptBlueprint '/Game/levels/arena.arena:PersistentLevel.arena' with GeneratedClass '/Game/levels/arena.arena_C' with ClassGeneratedBy '/Game/levels/arena.arena:PersistentLevel.arena'
+[2017.10.13-19.16.16:381][511]LogEditorViewport: Clicking Background
+[2017.10.13-19.16.17:021][553]Cmd: SELECT NONE
+[2017.10.13-19.16.44:777][288]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.13-19.16.45:009][288]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/arena.arena:PersistentLevel' has LevelScriptBlueprint '/Game/levels/arena.arena:PersistentLevel.arena' with GeneratedClass '/Game/levels/arena.arena_C' with ClassGeneratedBy '/Game/levels/arena.arena:PersistentLevel.arena'
+[2017.10.13-19.16.45:009][288]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.13-19.16.45:009][288]PIE: New page: PIE session: arena (Oct 13, 2017, 11:16:45 AM)
+[2017.10.13-19.16.45:009][288]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_arena
+[2017.10.13-19.16.45:023][288]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013456s)
+[2017.10.13-19.16.45:024][288]LogAIModule: Creating AISystem for world arena
+[2017.10.13-19.16.45:024][288]LogPlayLevel: PIE: World Init took: (0.001068s)
+[2017.10.13-19.16.45:024][288]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/arena.arena to /Game/levels/UEDPIE_0_arena.arena (0.014881s)
+[2017.10.13-19.16.45:107][288]LogInit: XAudio2 using 'Speakers (Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.13-19.16.45:116][288]LogInit: FAudioDevice initialized.
+[2017.10.13-19.16.45:151][288]LogLoad: Game class is 'gameMode_C'
+[2017.10.13-19.16.45:155][288]PIE: Warning: AttachTo: '/Game/levels/UEDPIE_0_arena.arena:PersistentLevel.firePit_134.damageVol' is not static  (in blueprint "firePit"), cannot attach '/Game/levels/UEDPIE_0_arena.arena:PersistentLevel.PainCausingVolume_GEN_VARIABLE_PainCausingVolume_CAT_72.BrushComponent0' which is static to it. Aborting.
+[2017.10.13-19.16.45:155][288]PIE: Warning: AttachTo: '/Game/levels/UEDPIE_0_arena.arena:PersistentLevel.firePit2.damageVol' is not static  (in blueprint "firePit"), cannot attach '/Game/levels/UEDPIE_0_arena.arena:PersistentLevel.PainCausingVolume_GEN_VARIABLE_PainCausingVolume_CAT_1329.BrushComponent0' which is static to it. Aborting.
+[2017.10.13-19.16.45:162][288]LogWorld: Bringing World /Game/levels/UEDPIE_0_arena.arena up for play (max tick rate 0) at 2017.10.13-15.16.45
+[2017.10.13-19.16.45:164][288]LogWorld: Bringing up level for play took: 0.011999
+[2017.10.13-19.16.45:165][288]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.10.13-19.16.45:165][288]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.10.13-19.16.45:165][288]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.10.13-19.16.45:168][288]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.10.13-19.16.45:168][288]PIE: Play in editor start time for /Game/levels/UEDPIE_0_arena 0.138
+[2017.10.13-19.16.45:169][288]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/arena.arena:PersistentLevel' has LevelScriptBlueprint '/Game/levels/arena.arena:PersistentLevel.arena' with GeneratedClass '/Game/levels/arena.arena_C' with ClassGeneratedBy '/Game/levels/arena.arena:PersistentLevel.arena'
+[2017.10.13-19.17.18:140][ 93]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/arena.arena:PersistentLevel' has LevelScriptBlueprint '/Game/levels/arena.arena:PersistentLevel.arena' with GeneratedClass '/Game/levels/arena.arena_C' with ClassGeneratedBy '/Game/levels/arena.arena:PersistentLevel.arena'
+[2017.10.13-19.17.18:244][ 93]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/arena.arena:PersistentLevel' has LevelScriptBlueprint '/Game/levels/arena.arena:PersistentLevel.arena' with GeneratedClass '/Game/levels/arena.arena_C' with ClassGeneratedBy '/Game/levels/arena.arena:PersistentLevel.arena'
+[2017.10.13-19.17.52:665][418]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/HUD" FILE="E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Content/UMG/HUD.uasset" SILENT=true
+[2017.10.13-19.17.54:814][418]LogSavePackage: Save=1979.06ms
+[2017.10.13-19.17.54:814][418]LogSavePackage: Moving 'E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Saved/HUD4670CD424355EC78BACC49811F3BCA97.tmp' to 'E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Content/UMG/HUD.uasset'
+[2017.10.13-19.17.54:868][418]LogSavePackage: Display: Finished SavePackage E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Content/UMG/HUD.uasset
+[2017.10.13-19.20.46:967][990]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/levels/arena" FILE="E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Saved/Autosaves/Game/levels/arena_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.10.13-19.20.58:785][990]LogSavePackage: Save=11209.20ms
+[2017.10.13-19.20.58:785][990]LogSavePackage: Moving 'E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Saved/arena_Auto4A2CBCA9F48321BB1571C6CA22A79518F.tmp' to 'E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Saved/Autosaves/Game/levels/arena_Auto4.umap'
+[2017.10.13-19.20.58:795][990]LogSavePackage: Display: Finished SavePackage E:/New folder/GAME2020_M1_Sklarzyk_Emanuela_CarCombatGame/Saved/Autosaves/Game/levels/arena_Auto4.umap
+[2017.10.13-19.20.58:824][990]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/levels/arena' took 11.903
+[2017.10.13-19.20.58:824][990]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 11.903
+[2017.10.13-19.21.35:967][435]LogEditorTransaction: Undo Add Widget
+[2017.10.13-19.21.39:634][574]LogEditorTransaction: Undo Add Widget
+[2017.10.13-19.22.49:403][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UMG/Menu.Menu:WidgetTree.CanvasPanel_0
+[2017.10.13-19.22.49:403][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UMG/PauseMenu.PauseMenu:WidgetTree.CanvasPanel_0
+[2017.10.13-19.22.49:403][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:HUD_C_1.WidgetTree_17.CanvasPanel_0
+[2017.10.13-19.22.49:403][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:HUD_C_2.WidgetTree_12.CanvasPanel_0
+[2017.10.13-19.22.49:403][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:HUD_C_3.WidgetTree_5.CanvasPanel_0
+[2017.10.13-19.22.49:403][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:HUD_C_4.WidgetTree_13.CanvasPanel_0
+[2017.10.13-19.22.49:403][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:HUD_C_5.WidgetTree_14.CanvasPanel_0
+[2017.10.13-19.22.49:403][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:HUD_C_6.WidgetTree_8.CanvasPanel_0
+[2017.10.13-19.22.49:403][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:HUD_C_7.WidgetTree_9.CanvasPanel_0
+[2017.10.13-19.22.49:403][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:HUD_C_9.WidgetTree_18.CanvasPanel_0
+[2017.10.13-19.22.49:403][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:HUD_C_8.WidgetTree_15.CanvasPanel_0
+[2017.10.13-19.22.49:403][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_HUD_C_12:WidgetTree.CanvasPanel_0
+[2017.10.13-19.22.49:403][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:HUD_C_19.WidgetTree_33.CanvasPanel_0
+[2017.10.13-19.22.49:403][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_HUD_C_24:WidgetTree.CanvasPanel_0
+[2017.10.13-19.22.49:403][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:HUD_C_12.WidgetTree_30.CanvasPanel_0
+[2017.10.13-19.22.49:403][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:HUD_C_20.WidgetTree_36.CanvasPanel_0
+[2017.10.13-19.22.49:403][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_HUD_C_52:WidgetTree.CanvasPanel_0
+[2017.10.13-19.22.49:404][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:HUD_C_18.WidgetTree_32.CanvasPanel_0
+[2017.10.13-19.22.49:404][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:HUD_C_13.WidgetTree_22.CanvasPanel_0
+[2017.10.13-19.22.49:404][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:HUD_C_14.WidgetTree_23.CanvasPanel_0
+[2017.10.13-19.22.49:404][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:HUD_C_15.WidgetTree_24.CanvasPanel_0
+[2017.10.13-19.22.49:404][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:HUD_C_16.WidgetTree_25.CanvasPanel_0
+[2017.10.13-19.22.49:404][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_HUD_C_22:WidgetTree.CanvasPanel_0
+[2017.10.13-19.22.49:404][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:HUD_C_11.WidgetTree_29.CanvasPanel_0
+[2017.10.13-19.22.49:404][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:HUD_C_10.WidgetTree_27.CanvasPanel_0
+[2017.10.13-19.22.49:404][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_HUD_C_30:WidgetTree.CanvasPanel_0
+[2017.10.13-19.22.49:404][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_HUD_C_54:WidgetTree.CanvasPanel_0
+[2017.10.13-19.22.49:404][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:HUD_C_38.WidgetTree_59.CanvasPanel_0
+[2017.10.13-19.22.49:404][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:HUD_C_22.WidgetTree_38.CanvasPanel_0
+[2017.10.13-19.22.49:404][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:HUD_C_23.WidgetTree_39.CanvasPanel_0
+[2017.10.13-19.22.49:404][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:HUD_C_24.WidgetTree_40.CanvasPanel_0
+[2017.10.13-19.22.49:404][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:HUD_C_25.WidgetTree_41.CanvasPanel_0
+[2017.10.13-19.22.49:404][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:HUD_C_26.WidgetTree_42.CanvasPanel_0
+[2017.10.13-19.22.49:404][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:HUD_C_27.WidgetTree_43.CanvasPanel_0
+[2017.10.13-19.22.49:404][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:HUD_C_28.WidgetTree_44.CanvasPanel_0
+[2017.10.13-19.22.49:404][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:HUD_C_45.WidgetTree_67.CanvasPanel_0
+[2017.10.13-19.22.49:404][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:HUD_C_29.WidgetTree_45.CanvasPanel_0
+[2017.10.13-19.22.49:404][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:HUD_C_30.WidgetTree_46.CanvasPanel_0
+[2017.10.13-19.22.49:404][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:HUD_C_31.WidgetTree_47.CanvasPanel_0
+[2017.10.13-19.22.49:404][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:HUD_C_32.WidgetTree_48.CanvasPanel_0
+[2017.10.13-19.22.49:404][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:HUD_C_33.WidgetTree_49.CanvasPanel_0
+[2017.10.13-19.22.49:404][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:HUD_C_34.WidgetTree_50.CanvasPanel_0
+[2017.10.13-19.22.49:404][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:HUD_C_35.WidgetTree_51.CanvasPanel_0
+[2017.10.13-19.22.49:404][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:HUD_C_36.WidgetTree_52.CanvasPanel_0
+[2017.10.13-19.22.49:404][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:HUD_C_37.WidgetTree_53.CanvasPanel_0
+[2017.10.13-19.22.49:404][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_HUD_C_50:WidgetTree.CanvasPanel_0
+[2017.10.13-19.22.49:405][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:HUD_C_21.WidgetTree_57.CanvasPanel_0
+[2017.10.13-19.22.49:405][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:HUD_C_17.WidgetTree_55.CanvasPanel_0
+[2017.10.13-19.22.49:405][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:HUD_C_39.WidgetTree_60.CanvasPanel_0
+[2017.10.13-19.22.49:405][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:HUD_C_40.WidgetTree_61.CanvasPanel_0
+[2017.10.13-19.22.49:405][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:HUD_C_41.WidgetTree_62.CanvasPanel_0
+[2017.10.13-19.22.49:405][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_HUD_C_59:WidgetTree.CanvasPanel_0
+[2017.10.13-19.22.49:405][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Menu_C_6.WidgetTree_104.CanvasPanel_0
+[2017.10.13-19.22.49:405][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_HUD_C_65:WidgetTree.CanvasPanel_0
+[2017.10.13-19.22.49:405][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:HUD_C_46.WidgetTree_72.CanvasPanel_0
+[2017.10.13-19.22.49:405][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_HUD_C_62:WidgetTree.CanvasPanel_0
+[2017.10.13-19.22.49:405][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:HUD_C_47.WidgetTree_77.CanvasPanel_0
+[2017.10.13-19.22.49:405][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Menu_C_2.WidgetTree_100.CanvasPanel_0
+[2017.10.13-19.22.49:405][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:HUD_C_44.WidgetTree_76.CanvasPanel_0
+[2017.10.13-19.22.49:405][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:HUD_C_48.WidgetTree_78.CanvasPanel_0
+[2017.10.13-19.22.49:405][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:HUD_C_49.WidgetTree_79.CanvasPanel_0
+[2017.10.13-19.22.49:405][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Menu_C_7.WidgetTree_105.CanvasPanel_0
+[2017.10.13-19.22.49:405][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:HUD_C_51.WidgetTree_81.CanvasPanel_0
+[2017.10.13-19.22.49:405][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:HUD_C_52.WidgetTree_82.CanvasPanel_0
+[2017.10.13-19.22.49:405][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:HUD_C_53.WidgetTree_83.CanvasPanel_0
+[2017.10.13-19.22.49:405][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:HUD_C_54.WidgetTree_84.CanvasPanel_0
+[2017.10.13-19.22.49:405][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:HUD_C_55.WidgetTree_85.CanvasPanel_0
+[2017.10.13-19.22.49:405][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Menu_C_5.WidgetTree_103.CanvasPanel_0
+[2017.10.13-19.22.49:405][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_HUD_C_78:WidgetTree.CanvasPanel_0
+[2017.10.13-19.22.49:405][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UMG/HUD.HUD_C:WidgetTree.CanvasPanel_0
+[2017.10.13-19.22.49:405][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Menu_C_4.WidgetTree_102.CanvasPanel_0
+[2017.10.13-19.22.49:405][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Menu_C_3.WidgetTree_101.CanvasPanel_0
+[2017.10.13-19.22.49:405][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Menu_C_8.WidgetTree_106.CanvasPanel_0
+[2017.10.13-19.22.49:405][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Menu_C_9.WidgetTree_107.CanvasPanel_0
+[2017.10.13-19.22.49:405][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Menu_C_10.WidgetTree_108.CanvasPanel_0
+[2017.10.13-19.22.49:405][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Menu_C_11.WidgetTree_109.CanvasPanel_0
+[2017.10.13-19.22.49:406][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Menu_C_12.WidgetTree_110.CanvasPanel_0
+[2017.10.13-19.22.49:406][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Menu_C_13.WidgetTree_111.CanvasPanel_0
+[2017.10.13-19.22.49:406][194]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:Menu_C_14.WidgetTree_112.CanvasPanel_0
+[2017.10.13-19.22.49:406][194]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/UMG/HUD.HUD:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0) from referencer (VerticalBox /Engine/UMG/Editor/Transient.VerticalBox_0).  Import failed...
+[2017.10.13-19.22.49:406][194]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'CanvasPanel_0.CanvasPanelSlot_0''
+[2017.10.13-19.22.53:024][312]LogEditorTransaction: Undo Animatable Property Changed
+[2017.10.13-19.22.55:759][402]LogEditorTransaction: Undo Animatable Property Changed
+[2017.10.13-19.22.59:151][517]BlueprintLog: New page: Compile Menu
+[2017.10.13-19.23.44:576][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_3:HUD_C_6.WidgetTree_8.VerticalBox_1
+[2017.10.13-19.23.44:576][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_3:HUD_C_7.WidgetTree_9.VerticalBox_1
+[2017.10.13-19.23.44:576][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_3:HUD_C_9.WidgetTree_18.VerticalBox_1
+[2017.10.13-19.23.44:576][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_3:HUD_C_1.WidgetTree_17.VerticalBox_1
+[2017.10.13-19.23.44:576][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_3:HUD_C_2.WidgetTree_12.VerticalBox_1
+[2017.10.13-19.23.44:576][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_3:HUD_C_4.WidgetTree_13.VerticalBox_1
+[2017.10.13-19.23.44:576][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_3:HUD_C_5.WidgetTree_14.VerticalBox_1
+[2017.10.13-19.23.44:576][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_3:HUD_C_8.WidgetTree_15.VerticalBox_1
+[2017.10.13-19.23.44:576][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.REINST_HUD_C_12:WidgetTree.VerticalBox_1
+[2017.10.13-19.23.44:576][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.REINST_HUD_C_52:WidgetTree.VerticalBox_1
+[2017.10.13-19.23.44:577][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.REINST_HUD_C_24:WidgetTree.VerticalBox_1
+[2017.10.13-19.23.44:577][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_3:HUD_C_20.WidgetTree_36.VerticalBox_1
+[2017.10.13-19.23.44:577][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_3:HUD_C_12.WidgetTree_30.VerticalBox_1
+[2017.10.13-19.23.44:577][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_3:HUD_C_13.WidgetTree_22.VerticalBox_1
+[2017.10.13-19.23.44:577][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_3:HUD_C_14.WidgetTree_23.VerticalBox_1
+[2017.10.13-19.23.44:577][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_3:HUD_C_15.WidgetTree_24.VerticalBox_1
+[2017.10.13-19.23.44:577][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_3:HUD_C_16.WidgetTree_25.VerticalBox_1
+[2017.10.13-19.23.44:577][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.REINST_HUD_C_22:WidgetTree.VerticalBox_1
+[2017.10.13-19.23.44:577][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_3:HUD_C_11.WidgetTree_29.VerticalBox_1
+[2017.10.13-19.23.44:577][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_3:HUD_C_10.WidgetTree_27.VerticalBox_1
+[2017.10.13-19.23.44:577][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_3:HUD_C_18.WidgetTree_32.VerticalBox_1
+[2017.10.13-19.23.44:577][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_3:HUD_C_19.WidgetTree_33.VerticalBox_1
+[2017.10.13-19.23.44:577][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.REINST_HUD_C_30:WidgetTree.VerticalBox_1
+[2017.10.13-19.23.44:577][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.REINST_HUD_C_54:WidgetTree.VerticalBox_1
+[2017.10.13-19.23.44:577][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_3:HUD_C_38.WidgetTree_59.VerticalBox_1
+[2017.10.13-19.23.44:577][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_3:HUD_C_22.WidgetTree_38.VerticalBox_1
+[2017.10.13-19.23.44:577][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_3:HUD_C_23.WidgetTree_39.VerticalBox_1
+[2017.10.13-19.23.44:577][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_3:HUD_C_24.WidgetTree_40.VerticalBox_1
+[2017.10.13-19.23.44:577][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_3:HUD_C_25.WidgetTree_41.VerticalBox_1
+[2017.10.13-19.23.44:577][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_3:HUD_C_26.WidgetTree_42.VerticalBox_1
+[2017.10.13-19.23.44:577][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_3:HUD_C_27.WidgetTree_43.VerticalBox_1
+[2017.10.13-19.23.44:577][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_3:HUD_C_28.WidgetTree_44.VerticalBox_1
+[2017.10.13-19.23.44:577][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_3:HUD_C_29.WidgetTree_45.VerticalBox_1
+[2017.10.13-19.23.44:577][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_3:HUD_C_30.WidgetTree_46.VerticalBox_1
+[2017.10.13-19.23.44:577][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_3:HUD_C_31.WidgetTree_47.VerticalBox_1
+[2017.10.13-19.23.44:577][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_3:HUD_C_32.WidgetTree_48.VerticalBox_1
+[2017.10.13-19.23.44:577][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_3:HUD_C_33.WidgetTree_49.VerticalBox_1
+[2017.10.13-19.23.44:577][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_3:HUD_C_34.WidgetTree_50.VerticalBox_1
+[2017.10.13-19.23.44:577][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_3:HUD_C_35.WidgetTree_51.VerticalBox_1
+[2017.10.13-19.23.44:577][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_3:HUD_C_36.WidgetTree_52.VerticalBox_1
+[2017.10.13-19.23.44:577][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_3:HUD_C_37.WidgetTree_53.VerticalBox_1
+[2017.10.13-19.23.44:577][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.REINST_HUD_C_50:WidgetTree.VerticalBox_1
+[2017.10.13-19.23.44:578][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_3:HUD_C_21.WidgetTree_57.VerticalBox_1
+[2017.10.13-19.23.44:578][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_3:HUD_C_17.WidgetTree_55.VerticalBox_1
+[2017.10.13-19.23.44:578][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_3:HUD_C_45.WidgetTree_67.VerticalBox_1
+[2017.10.13-19.23.44:578][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_3:HUD_C_39.WidgetTree_60.VerticalBox_1
+[2017.10.13-19.23.44:578][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_3:HUD_C_40.WidgetTree_61.VerticalBox_1
+[2017.10.13-19.23.44:578][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_3:HUD_C_41.WidgetTree_62.VerticalBox_1
+[2017.10.13-19.23.44:578][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.REINST_HUD_C_59:WidgetTree.VerticalBox_1
+[2017.10.13-19.23.44:578][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_3:HUD_C_44.WidgetTree_76.VerticalBox_1
+[2017.10.13-19.23.44:578][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.REINST_HUD_C_65:WidgetTree.VerticalBox_1
+[2017.10.13-19.23.44:578][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_3:HUD_C_46.WidgetTree_72.VerticalBox_1
+[2017.10.13-19.23.44:578][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.REINST_HUD_C_62:WidgetTree.VerticalBox_1
+[2017.10.13-19.23.44:578][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_3:HUD_C_47.WidgetTree_77.VerticalBox_1
+[2017.10.13-19.23.44:578][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_3:HUD_C_48.WidgetTree_78.VerticalBox_1
+[2017.10.13-19.23.44:578][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_8:Menu_C_2.WidgetTree_116.VerticalBox_1
+[2017.10.13-19.23.44:578][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_3:HUD_C_49.WidgetTree_79.VerticalBox_1
+[2017.10.13-19.23.44:578][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_8:Menu_C_1.WidgetTree_115.VerticalBox_1
+[2017.10.13-19.23.44:578][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_3:HUD_C_51.WidgetTree_81.VerticalBox_1
+[2017.10.13-19.23.44:578][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_3:HUD_C_52.WidgetTree_82.VerticalBox_1
+[2017.10.13-19.23.44:578][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_3:HUD_C_53.WidgetTree_83.VerticalBox_1
+[2017.10.13-19.23.44:578][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_3:HUD_C_54.WidgetTree_84.VerticalBox_1
+[2017.10.13-19.23.44:578][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_3:HUD_C_55.WidgetTree_85.VerticalBox_1
+[2017.10.13-19.23.44:578][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Game/UMG/Menu.Menu_C:WidgetTree.VerticalBox_1
+[2017.10.13-19.23.44:578][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.REINST_HUD_C_78:WidgetTree.VerticalBox_1
+[2017.10.13-19.23.44:578][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Game/UMG/HUD.HUD_C:WidgetTree.VerticalBox_1
+[2017.10.13-19.23.44:578][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Engine/Transient.World_8:Menu_C_15.WidgetTree_113.VerticalBox_1
+[2017.10.13-19.23.44:578][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/HUD.HUD:WidgetTree.VerticalBox_1 or VerticalBox /Game/UMG/Menu.Menu:WidgetTree.VerticalBox_1
+[2017.10.13-19.23.44:579][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBoxSlot /Engine/Transient.World_8:Menu_C_1.WidgetTree_115.VerticalBox_1.VerticalBoxSlot_2 or VerticalBoxSlot /Game/UMG/Menu.Menu:WidgetTree.VerticalBox_1.VerticalBoxSlot_2
+[2017.10.13-19.23.44:579][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBoxSlot /Engine/Transient.World_8:Menu_C_1.WidgetTree_115.VerticalBox_1.VerticalBoxSlot_2 or VerticalBoxSlot /Engine/Transient.World_8:Menu_C_15.WidgetTree_113.VerticalBox_1.VerticalBoxSlot_2
+[2017.10.13-19.23.44:579][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBoxSlot /Engine/Transient.World_8:Menu_C_1.WidgetTree_115.VerticalBox_1.VerticalBoxSlot_2 or VerticalBoxSlot /Game/UMG/Menu.Menu_C:WidgetTree.VerticalBox_1.VerticalBoxSlot_2
+[2017.10.13-19.23.44:579][857]LogUObjectHash: Warning: Ambiguous search, could be VerticalBoxSlot /Engine/Transient.World_8:Menu_C_1.WidgetTree_115.VerticalBox_1.VerticalBoxSlot_2 or VerticalBoxSlot /Engine/Transient.World_8:Menu_C_2.WidgetTree_116.VerticalBox_1.VerticalBoxSlot_2
+[2017.10.13-19.23.44:579][857]LogProperty: Warning: Illegal TEXT reference to a private object in external package (VerticalBoxSlot /Engine/Transient.World_8:Menu_C_1.WidgetTree_115.VerticalBox_1.VerticalBoxSlot_2) from referencer (Button /Engine/UMG/Editor/Transient.Button_7).  Import failed...
+[2017.10.13-19.23.44:579][857]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'VerticalBoxSlot'VerticalBox_1.VerticalBoxSlot_2''
+[2017.10.13-19.26.14:983][640]BlueprintLog: New page: Compile Menu
